@@ -1,6 +1,6 @@
 import React from "react";
 import { SideBar } from "./_components/sidebar";
-import NavBar from "./_components/navbar";
+import NavBar from "../../components/common/navbar";
 
 interface DashBoardInterface {
   children: React.ReactNode;
